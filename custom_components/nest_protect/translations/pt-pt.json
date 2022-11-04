@@ -1,0 +1,20 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Para liga á sua conta do Google, [autorize sua conta]({url}).\n\nApós a autorização, copie e cole o código de token de autenticação fornecido abaixo.",
+                "data": {
+                    "token": "Atualizar Token"
+                }
+            }
+        },
+        "error": {
+            "cannot_connect": "Erro ao ligar",
+            "invalid_auth": "Autenticação inválida",
+            "unknown": "Erro desconhecido"
+        },
+        "abort": {
+            "already_configured": "A conta já se encontra configurada"
+        }
+    }
+}
